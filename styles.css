@@ -2,6 +2,10 @@
     box-sizing: border-box
 }
 
+body {
+    background-image: url('assets/drums.jpg');
+}
+
 .container {
     background-color: #ddd;
     padding: 10px;
@@ -26,7 +30,7 @@ button:active {
 button {
     font-family: 'Comic-Sans';
     font-weight: bold;
-    font-size: 23px;
+    font-size: 40px;
     transition: all 0.2s ease-in-out;
     border-radius: 10px;
     background-color: #bbb;
@@ -36,21 +40,18 @@ button {
     width: 100%;
 }
 
-button::after {
+button:after {
     transform: scale(1.1);
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
-    background-color: #2196F3;
     padding: 10px;
 }
 
 .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
+    padding: 40px;
+    font-size: 40px;
     text-align: center;
 }
