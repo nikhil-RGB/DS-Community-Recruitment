@@ -25,7 +25,8 @@ For instance, a drum kit that can generate a sound when clicked on.
 
 ### Notes:
 
-- This web-page was built with HTML/CSS/Vanilla JS, to view it, please download this repository's code, and open index.html in a browser of your choice.
+- This web-page was built with HTML/CSS/Vanilla JS, to view it locally, please download this repository's code, and open index.html in a browser of your choice.
+  Alternatively, you can check out it's live deployment [here](https://nikhil-rgb.github.io/apps/drumkit/index.html) 
 - The page was made responsive with the use of media queries.
 - The :active and :hover pseudo-classes were used to make the page feel more reactive to user input, and 
   change border colours temporarily.
