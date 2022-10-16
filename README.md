@@ -31,6 +31,7 @@ For instance, a drum kit that can generate a sound when clicked on.
 - The :active and :hover pseudo-classes were used to make the page feel more reactive to user input, and 
   change border colours temporarily.
 - All sound effects were taken from [this site](https://www.fesliyanstudios.com/royalty-free-sound-effects-download/)
+- Please note that you can play the sounds without pressing the buttons by clicking on the key associated with that button(dsiplayed on button).
 - Thank you to DS-Community SRM for this oppurtunity to practice some basic CSS again, it was a great experience! :-)) 
 
 
